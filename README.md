@@ -1,3 +1,5 @@
+![Face Recognition](https://user-images.githubusercontent.com/59369441/116009878-7a4ac800-a639-11eb-99d3-6ff98e4586cc.png)
+
 # Face-Recognition
 In this project I am going to perform Facial Recognition with high accuracy
 
