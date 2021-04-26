@@ -15,7 +15,7 @@ Following Packages are required:
 5) face-recognition
 
 Download all the Files and keep them under the same folder.
-(images & Training data) file is used to train the module. 
+(images & Training data) file is used to train the module, use your images to train your module, I have given some test images. 
 After training, you are ready to go. 
 
 
